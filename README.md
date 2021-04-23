@@ -77,4 +77,4 @@ Our trained model can be downloaded from the link - https://drive.google.com/fil
 - Saumil Agarwal (2018A7PS0268P) 
 - Atharva Anand Joshi (2018A3PS0515P) 
 - Aayush Singhal (2018A1PS0047P) 
-Birla Institute of Technology and Science, Pilani
+
