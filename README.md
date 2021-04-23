@@ -1,34 +1,33 @@
 # Unet-Paper-Implementation
 
-This is the readme for an implemntation of the research paper **U-Net: Convolutional Networks for Biomedical Image Segmentation** by (Olaf Ronneberger, Philipp Fischer, and Thomas Brox). 
+In this project, we provide an implementation for the research paper **U-Net: Convolutional Networks for Biomedical Image Segmentation** by (Olaf Ronneberger, Philipp Fischer, and Thomas Brox). 
 
 Please use `Google Colab` to run this code. Run the Unet_implementation_final.ipynb
 
-Implementation by -Saumil Agarwal (2018A7PS0268P), Atharva Anand Joshi (2018A3PS0515P), Aayush Singhal (2018A1PS0047P)
 
 ## Table of contents
 
 - Import all the required libraries
 
-- Defining directories
+- Define the directories
 
-- Preprocessing Data -
-  - Basic Augmentation
-  - Overlap Tile
-  - Perform elastic transformation
-  - Cropping labels to dimension (388,388)
+- Data Preprocessing:
+  - Normal Augmentation
+  - Overlap Tile Strategy
+  - Gaussian Elastic Transformation
+  - Label Cropping to dimension (388,388)
   
-- Importing training and validation data
+- Import training and validation data
 
 - Unet Model Architecture
 
-- The Training part:
+- Train the model:
 
-- Plots: We'll be plotting two graphs:
+- Plots
 
 
 ## Downloading the dataset
-Please download these in a different folders
+Please download these in different folders:
 Images of Original Dataset can be found at the link - https://drive.google.com/drive/folders/1NMFq87ftuRZ-xQJs8HbuiVwIDdZNBetu?usp=sharing
 
 Labels of Original Dataset can be found at the link - https://drive.google.com/drive/folders/1NKZpXN49HgWWopM5MOzE48EG3L0jVJFI?usp=sharing
@@ -61,6 +60,9 @@ over_val_data_dir - Directory path for storing the results of cropping of valida
 
 final_val_label_dir -Directory path for storing the final validation labels  of data
 
+
+
+
 In The Training part section please change the variables
 log_dir - Enter directory path for saving logs
 
@@ -68,6 +70,11 @@ model_name - Enter full filename path for saving model
 
 Our trained model can be downloaded from the link - https://drive.google.com/file/d/12C1Q-DRAr0SzOj48U235vWpbjKJaadb6/view?usp=sharing
 
-## Plots: We'll be plotting two graphs:
-Will plot the validation and training loss(and accuracy) graphs after running the sections of the notebook before it.
+## Plots: 
 
+
+## Contributors:
+Saumil Agarwal (2018A7PS0268P)
+Atharva Anand Joshi (2018A3PS0515P)
+Aayush Singhal (2018A1PS0047P)
+Birla Institute of Technology and Science, Pilani
