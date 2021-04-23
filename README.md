@@ -8,11 +8,11 @@ Implementation by -Saumil Agarwal (2018A7PS0268P), Atharva Anand Joshi (2018A3PS
 
 ## Table of contents
 
--Import all the required libraries
+- Import all the required libraries
 
--Defining directories
+- Defining directories
 
--Preprocessing Data
+- Preprocessing Data
 
 &nbsp;&nbsp;-Basic Augmentation
   
