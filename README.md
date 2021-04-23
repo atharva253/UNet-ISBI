@@ -51,7 +51,7 @@ Directory containing all images and labels generated at each step of preprocessi
 Please **create** and **mention** the directory path for saving images and labels at each step of augmentation. The images and labels generated at each step of preprocessing is saved and utilized for the next step. The comment corresponding to each variable defines the purpose of directory and mention accordingly.
 
 ## Preprocessing Data
-You can perprocess the data by running the Preprocessing Data section of the .ipynb notebook and other sections before it.
+You can preprocess the data by running the Preprocessing Data section of the .ipynb notebook and other sections before it.
 
 ## Training and validation
 After preprocessing is done and we can perform training. The sections used are Importing training and validation data, Unet Model Architecture, The Training part.
