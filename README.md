@@ -18,17 +18,17 @@ Implementation by -Saumil Agarwal (2018A7PS0268P), Atharva Anand Joshi (2018A3PS
   
 &nbsp;&nbsp;-Overlap Tile
   
-&nbsp;&nbsp;-Perform elastic transformation
+&nbsp;&nbsp;- Perform elastic transformation
   
-&nbsp;&nbsp;-Cropping labels to dimension (388,388)
+&nbsp;&nbsp;- Cropping labels to dimension (388,388)
   
--Importing training and validation data
+- Importing training and validation data
 
--Unet Model Architecture
+- Unet Model Architecture
 
--The Training part:
+- The Training part:
 
--Plots: We'll be plotting two graphs:
+- Plots: We'll be plotting two graphs:
 
 
 ## Downloading the dataset
