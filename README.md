@@ -12,15 +12,11 @@ Implementation by -Saumil Agarwal (2018A7PS0268P), Atharva Anand Joshi (2018A3PS
 
 - Defining directories
 
-- Preprocessing Data
-
-&nbsp;&nbsp; - Basic Augmentation
-  
-&nbsp;&nbsp; - Overlap Tile
-  
-&nbsp;&nbsp; - Perform elastic transformation
-  
-&nbsp;&nbsp; - Cropping labels to dimension (388,388)
+- Preprocessing Data -
+  - Basic Augmentation
+  - Overlap Tile
+  - Perform elastic transformation
+  - Cropping labels to dimension (388,388)
   
 - Importing training and validation data
 
