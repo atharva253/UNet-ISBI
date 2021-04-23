@@ -21,7 +21,7 @@ Please use `Google Colab` to run this code. Run the Unet_implementation_final.ip
 
 - Unet Model Architecture
 
-- Train the model:
+- Train the model
 
 - Plots
 
@@ -71,7 +71,8 @@ model_name - Enter full filename path for saving model
 Our trained model can be downloaded from the link - https://drive.google.com/file/d/12C1Q-DRAr0SzOj48U235vWpbjKJaadb6/view?usp=sharing
 
 ## Plots: 
-
+![](unet_final_3_acc.png)
+![](unet_final_3_loss.png)
 
 ## Contributors:
 - Saumil Agarwal (2018A7PS0268P) 
