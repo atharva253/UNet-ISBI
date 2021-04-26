@@ -70,7 +70,11 @@ model_name - Enter full filename path for saving model
 
 Our trained model can be downloaded from the link - https://drive.google.com/file/d/12C1Q-DRAr0SzOj48U235vWpbjKJaadb6/view?usp=sharing
 
-## Results: 
+## Results:
+
+Training Accuracy: 96.39 %
+
+Validation Accuracy: 91.03 %
 
 ![](unet_final_3_acc.png)
 
